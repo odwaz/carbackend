@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: linda
+Build-Jdk: 14.0.2
+Implementation-Title: cardatabase
+Implementation-Version: 0.0.2-SNAPSHOT
+Implementation-Vendor-Id: com.packt
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cardatabase
+Created-By: Maven Integration for Eclipse
+
